@@ -1,0 +1,142 @@
+[
+  {
+    "id": "m1",
+    "name": "Macarrão com Queijo",
+    "price": "8.99",
+    "description": "Queijo cheddar cremoso misturado com macarrão perfeitamente cozido, coberto com farinha de rosca crocante. Um clássico reconfortante.",
+    "image": "images/mac-and-cheese.jpg"
+  },
+  {
+    "id": "m2",
+    "name": "Pizza Margherita",
+    "price": "12.99",
+    "description": "Uma pizza clássica com mussarela fresca, tomates e manjericão em uma massa fina e crocante.",
+    "image": "images/margherita-pizza.jpg"
+  },
+  {
+    "id": "m3",
+    "name": "Salada Caesar",
+    "price": "7.99",
+    "description": "Alface romana misturada com molho Caesar, coberta com croutons e lascas de parmesão.",
+    "image": "images/caesar-salad.jpg"
+  },
+  {
+    "id": "m4",
+    "name": "Espaguete Carbonara",
+    "price": "10.99",
+    "description": "Espaguete al dente com molho cremoso feito de gema de ovo, queijo pecorino, pancetta e pimenta.",
+    "image": "images/spaghetti-carbonara.jpg"
+  },
+  {
+    "id": "m5",
+    "name": "Hambúrguer Vegetariano",
+    "price": "9.99",
+    "description": "Um suculento hambúrguer de vegetais servido em um pão integral com alface, tomate e um molho picante.",
+    "image": "images/veggie-burger.jpg"
+  },
+  {
+    "id": "m6",
+    "name": "Sanduíche de Frango Grelhado",
+    "price": "10.99",
+    "description": "Peito de frango grelhado com abacate, bacon, alface e mostarda com mel em um pão torrado.",
+    "image": "images/grilled-chicken-sandwich.jpg"
+  },
+  {
+    "id": "m7",
+    "name": "Steak com Batatas",
+    "price": "17.99",
+    "description": "Suculento bife no ponto de sua preferência, servido com batatas fritas douradas e manteiga de ervas.",
+    "image": "images/steak-frites.jpg"
+  },
+  {
+    "id": "m8",
+    "name": "Prato de Sushi",
+    "price": "15.99",
+    "description": "Uma variedade de sushi fresco, incluindo California, Atum Picante e Enguia com Abacate.",
+    "image": "images/sushi-roll-platter.jpg"
+  },
+  {
+    "id": "m9",
+    "name": "Frango ao Curry",
+    "price": "13.99",
+    "description": "Pedaços macios de frango cozidos em um molho curry aromático, servido com arroz basmati.",
+    "image": "images/chicken-curry.jpg"
+  },
+  {
+    "id": "m10",
+    "name": "Bowl Vegano",
+    "price": "11.99",
+    "description": "Um bowl saudável com quinoa, vegetais assados, abacate e molho de tahine.",
+    "image": "images/vegan-buddha-bowl.jpg"
+  },
+  {
+    "id": "m11",
+    "name": "Paella de Frutos do Mar",
+    "price": "19.99",
+    "description": "Uma iguaria espanhola com arroz infundido em açafrão, camarão, mexilhões e chouriço.",
+    "image": "images/seafood-paella.jpg"
+  },
+  {
+    "id": "m12",
+    "name": "Pilha de Panquecas",
+    "price": "8.99",
+    "description": "Panquecas fofas empilhadas, regadas com xarope de bordo e cobertas com frutas frescas.",
+    "image": "images/pancake-stack.jpg"
+  },
+  {
+    "id": "m13",
+    "name": "Miso Ramen",
+    "price": "12.99",
+    "description": "Uma tigela aquecida de ramen com caldo de miso, carne de porco macia, ovo cozido e cebolinha.",
+    "image": "images/miso-ramen.jpg"
+  },
+  {
+    "id": "m14",
+    "name": "Tacos de Carne",
+    "price": "9.99",
+    "description": "Três tortillas macias recheadas com carne temperada, salsa fresca, queijo e creme azedo.",
+    "image": "images/beef-tacos.jpg"
+  },
+  {
+    "id": "m15",
+    "name": "Brownie de Chocolate",
+    "price": "5.99",
+    "description": "Um brownie rico e cremoso, coberto com uma bola de sorvete de baunilha e calda de chocolate.",
+    "image": "images/chocolate-brownie.jpg"
+  },
+  {
+    "id": "m16",
+    "name": "Bisque de Lagosta",
+    "price": "14.99",
+    "description": "Uma sopa cremosa feita de caldo de lagosta, vegetais aromáticos e um toque de conhaque.",
+    "image": "images/lobster-bisque.jpg"
+  },
+  {
+    "id": "m17",
+    "name": "Risoto de Cogumelos",
+    "price": "13.99",
+    "description": "Arroz Arborio cremoso cozido com uma mistura de cogumelos selvagens e finalizado com parmesão.",
+    "image": "images/mushroom-risotto.jpg"
+  },
+  {
+    "id": "m18",
+    "name": "Berinjela à Parmegiana",
+    "price": "11.99",
+    "description": "Camadas de berinjela empanada, molho marinara, mussarela derretida e queijo parmesão.",
+    "image": "images/eggplant-parmesan.jpg"
+  },
+  {
+    "id": "m19",
+    "name": "Cheesecake de Limão",
+    "price": "6.99",
+    "description": "Um cheesecake cremoso com sabor de limão, servido sobre uma base crocante de biscoito.",
+    "image": "images/lemon-cheesecake.jpg"
+  },
+  {
+    "id": "m20",
+    "name": "Wrap de Falafel",
+    "price": "8.99",
+    "description": "Falafels crocantes embrulhados em um pão pita quente com alface, tomates e molho de tahine.",
+    "image": "images/falafel-wrap.jpg"
+  }
+]
